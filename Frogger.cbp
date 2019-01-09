@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Frogger" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Frogger" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Frogger" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="src/Detecta_vitoria.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/Detecta_vitoria.h" />
+		<Unit filename="src/Include_commons.h" />
+		<Unit filename="src/Manipula_arquivos.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/Manipula_arquivos.h" />
+		<Unit filename="src/Manipula_cenario.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/Manipula_cenario.h" />
+		<Unit filename="src/Manipula_colisoes.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/Manipula_colisoes.h" />
+		<Unit filename="src/Manipula_dificuldade.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/Manipula_dificuldade.h" />
+		<Unit filename="src/Manipula_menu.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/Manipula_menu.h" />
+		<Unit filename="src/Manipula_objetos.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/Manipula_objetos.h" />
+		<Unit filename="src/Manipula_pontuacao.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/Manipula_pontuacao.h" />
+		<Unit filename="src/Manipula_sapo.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/Manipula_sapo.h" />
+		<Unit filename="src/desenha_pixel.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/desenha_pixel.h" />
+		<Unit filename="src/main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

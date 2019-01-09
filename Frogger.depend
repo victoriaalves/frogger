@@ -1,0 +1,307 @@
+# depslib dependency file v1.0
+1431569047 source:c:\users\victóriaelizabetha\desktop\trabalho - frogger\frogger\src\detecta_vitoria.c
+
+1432259032 source:c:\users\victóriaelizabetha\desktop\trabalho - frogger\frogger\src\main.c
+	"Include_commons.h"
+	"Manipula_objetos.h"
+	"Manipula_cenario.h"
+	<time.h>
+
+1431818394 c:\users\victóriaelizabetha\desktop\trabalho - frogger\frogger\src\include_commons.h
+	<stdio.h>
+	<stdlib.h>
+	<conio2.h>
+
+1432304006 c:\users\victóriaelizabetha\desktop\trabalho - frogger\frogger\src\manipula_objetos.h
+	"Include_commons.h"
+	<windows.h>
+
+1434151609 c:\users\victóriaelizabetha\desktop\trabalho - frogger\frogger\src\manipula_cenario.h
+
+1431816307 source:c:\users\victóriaelizabetha\desktop\trabalho - frogger\frogger\src\manipula_arquivos.c
+	"Manipula_arquivos.h"
+
+1431816333 c:\users\victóriaelizabetha\desktop\trabalho - frogger\frogger\src\manipula_arquivos.h
+	"Include_commons.h"
+
+1432257804 source:c:\users\victóriaelizabetha\desktop\trabalho - frogger\frogger\src\manipula_cenario.c
+	"Manipula_arquivos.h"
+
+1434170640 source:c:\users\victóriaelizabetha\desktop\trabalho - frogger\frogger\src\manipula_colisoes.c
+	"Manipula_colisoes.h"
+
+1431569157 source:c:\users\victóriaelizabetha\desktop\trabalho - frogger\frogger\src\manipula_dificuldade.c
+
+1431712409 source:c:\users\victóriaelizabetha\desktop\trabalho - frogger\frogger\src\manipula_menu.c
+
+1434170795 source:c:\users\victóriaelizabetha\desktop\trabalho - frogger\frogger\src\manipula_objetos.c
+	"Manipula_objetos.h"
+	<windows.h>
+	<stdlib.h>
+
+1431569197 source:c:\users\victóriaelizabetha\desktop\trabalho - frogger\frogger\src\manipula_pontuacao.c
+
+1431569207 source:c:\users\victóriaelizabetha\desktop\trabalho - frogger\frogger\src\manipula_sapo.c
+
+1434151622 c:\users\victóriaelizabetha\desktop\trabalho - frogger\frogger\src\manipula_colisoes.h
+	"Manipula_objetos.h"
+
+1431569048 source:c:\users\kurt\desktop\frogger\src\detecta_vitoria.c
+
+1432259034 source:c:\users\kurt\desktop\frogger\src\main.c
+	"Include_commons.h"
+	"Manipula_objetos.h"
+	"Manipula_cenario.h"
+	<time.h>
+
+1431818396 c:\users\kurt\desktop\frogger\src\include_commons.h
+	<stdio.h>
+	<stdlib.h>
+	<conio2.h>
+
+1434337165 c:\users\kurt\desktop\frogger\src\manipula_objetos.h
+	"Include_commons.h"
+	<windows.h>
+
+1434151610 c:\users\kurt\desktop\frogger\src\manipula_cenario.h
+
+1431816308 source:c:\users\kurt\desktop\frogger\src\manipula_arquivos.c
+	"Manipula_arquivos.h"
+
+1431816334 c:\users\kurt\desktop\frogger\src\manipula_arquivos.h
+	"Include_commons.h"
+
+1432257806 source:c:\users\kurt\desktop\frogger\src\manipula_cenario.c
+	"Manipula_arquivos.h"
+
+1434419378 source:c:\users\kurt\desktop\frogger\src\manipula_colisoes.c
+	"Manipula_colisoes.h"
+
+1434411859 c:\users\kurt\desktop\frogger\src\manipula_colisoes.h
+	"Manipula_objetos.h"
+
+1431569158 source:c:\users\kurt\desktop\frogger\src\manipula_dificuldade.c
+
+1431712410 source:c:\users\kurt\desktop\frogger\src\manipula_menu.c
+
+1434419498 source:c:\users\kurt\desktop\frogger\src\manipula_objetos.c
+	"Manipula_objetos.h"
+	<windows.h>
+	<stdlib.h>
+
+1431569198 source:c:\users\kurt\desktop\frogger\src\manipula_pontuacao.c
+
+1431569208 source:c:\users\kurt\desktop\frogger\src\manipula_sapo.c
+
+1431569048 source:c:\users\victóriaelizabetha\dropbox\ufrgs 2015\primeiro semestre - cic\algoritmos e programação\Área 2\trabalho - frogger\frogger\src\detecta_vitoria.c
+
+1435296421 source:c:\users\victóriaelizabetha\dropbox\ufrgs 2015\primeiro semestre - cic\algoritmos e programação\Área 2\trabalho - frogger\frogger\src\main.c
+	"Include_commons.h"
+	"Manipula_objetos.h"
+	"Manipula_cenario.h"
+	<time.h>
+	<stdio.h>
+	<windows.h>
+	<process.h>
+
+1435296738 c:\users\victóriaelizabetha\dropbox\ufrgs 2015\primeiro semestre - cic\algoritmos e programação\Área 2\trabalho - frogger\frogger\src\include_commons.h
+	<stdio.h>
+	<stdlib.h>
+	<conio2.h>
+
+1435296664 c:\users\victóriaelizabetha\dropbox\ufrgs 2015\primeiro semestre - cic\algoritmos e programação\Área 2\trabalho - frogger\frogger\src\manipula_objetos.h
+	"Include_commons.h"
+	<windows.h>
+	"desenha_pixel.h"
+	"Manipula_menu.h"
+	"Manipula_colisoes.h"
+
+1435295847 c:\users\victóriaelizabetha\dropbox\ufrgs 2015\primeiro semestre - cic\algoritmos e programação\Área 2\trabalho - frogger\frogger\src\manipula_cenario.h
+	"Include_commons.h"
+
+1435296964 source:c:\users\victóriaelizabetha\dropbox\ufrgs 2015\primeiro semestre - cic\algoritmos e programação\Área 2\trabalho - frogger\frogger\src\manipula_arquivos.c
+	"Manipula_arquivos.h"
+
+1435278653 c:\users\victóriaelizabetha\dropbox\ufrgs 2015\primeiro semestre - cic\algoritmos e programação\Área 2\trabalho - frogger\frogger\src\manipula_arquivos.h
+	"Include_commons.h"
+	"Manipula_objetos.h"
+
+1435299190 source:c:\users\victóriaelizabetha\dropbox\ufrgs 2015\primeiro semestre - cic\algoritmos e programação\Área 2\trabalho - frogger\frogger\src\manipula_cenario.c
+	"Manipula_cenario.h"
+
+1431569158 source:c:\users\victóriaelizabetha\dropbox\ufrgs 2015\primeiro semestre - cic\algoritmos e programação\Área 2\trabalho - frogger\frogger\src\manipula_dificuldade.c
+
+1435278697 source:c:\users\victóriaelizabetha\dropbox\ufrgs 2015\primeiro semestre - cic\algoritmos e programação\Área 2\trabalho - frogger\frogger\src\manipula_menu.c
+	"Manipula_menu.h"
+
+1435299941 source:c:\users\victóriaelizabetha\dropbox\ufrgs 2015\primeiro semestre - cic\algoritmos e programação\Área 2\trabalho - frogger\frogger\src\manipula_objetos.c
+	"Manipula_objetos.h"
+	<windows.h>
+	<stdlib.h>
+
+1435290777 source:c:\users\victóriaelizabetha\dropbox\ufrgs 2015\primeiro semestre - cic\algoritmos e programação\Área 2\trabalho - frogger\frogger\src\manipula_pontuacao.c
+	"Manipula_pontuacao.h"
+
+1431569208 source:c:\users\victóriaelizabetha\dropbox\ufrgs 2015\primeiro semestre - cic\algoritmos e programação\Área 2\trabalho - frogger\frogger\src\manipula_sapo.c
+
+1435294022 source:c:\users\victóriaelizabetha\dropbox\ufrgs 2015\primeiro semestre - cic\algoritmos e programação\Área 2\trabalho - frogger\frogger\src\manipula_colisoes.c
+	"Manipula_colisoes.h"
+
+1435296681 c:\users\victóriaelizabetha\dropbox\ufrgs 2015\primeiro semestre - cic\algoritmos e programação\Área 2\trabalho - frogger\frogger\src\manipula_colisoes.h
+	"Manipula_pontuacao.h"
+
+1435278703 c:\users\victóriaelizabetha\dropbox\ufrgs 2015\primeiro semestre - cic\algoritmos e programação\Área 2\trabalho - frogger\frogger\src\manipula_menu.h
+	"Include_commons.h"
+
+1435294264 c:\users\victóriaelizabetha\dropbox\ufrgs 2015\primeiro semestre - cic\algoritmos e programação\Área 2\trabalho - frogger\frogger\src\manipula_pontuacao.h
+	"Include_commons.h"
+	"Manipula_objetos.h"
+
+1431569048 source:c:\users\victóriaelizabetha\desktop\frogger\src\detecta_vitoria.c
+
+1435291895 source:c:\users\victóriaelizabetha\desktop\frogger\src\main.c
+	"Include_commons.h"
+	"Manipula_objetos.h"
+	"Manipula_cenario.h"
+	<time.h>
+	<stdio.h>
+	<windows.h>
+	<process.h>
+
+1435278575 c:\users\victóriaelizabetha\desktop\frogger\src\include_commons.h
+	<stdio.h>
+	<stdlib.h>
+	<conio2.h>
+
+1435278807 c:\users\victóriaelizabetha\desktop\frogger\src\manipula_objetos.h
+	"Include_commons.h"
+	<windows.h>
+	"Manipula_menu.h"
+	"Manipula_pontuacao.h"
+
+1435278703 c:\users\victóriaelizabetha\desktop\frogger\src\manipula_menu.h
+	"Include_commons.h"
+
+1435288702 c:\users\victóriaelizabetha\desktop\frogger\src\manipula_pontuacao.h
+	"Include_commons.h"
+
+1435288801 c:\users\victóriaelizabetha\desktop\frogger\src\manipula_cenario.h
+	"Include_commons.h"
+
+1435288773 source:c:\users\victóriaelizabetha\desktop\frogger\src\manipula_cenario.c
+	"Manipula_cenario.h"
+
+1435278653 c:\users\victóriaelizabetha\desktop\frogger\src\manipula_arquivos.h
+	"Include_commons.h"
+	"Manipula_objetos.h"
+
+1435291711 source:c:\users\victóriaelizabetha\desktop\frogger\src\manipula_colisoes.c
+	"Manipula_colisoes.h"
+
+1435278681 c:\users\victóriaelizabetha\desktop\frogger\src\manipula_colisoes.h
+	"Manipula_objetos.h"
+	"Manipula_pontuacao.h"
+
+1431569158 source:c:\users\victóriaelizabetha\desktop\frogger\src\manipula_dificuldade.c
+
+1435278697 source:c:\users\victóriaelizabetha\desktop\frogger\src\manipula_menu.c
+	"Manipula_menu.h"
+
+1435291701 source:c:\users\victóriaelizabetha\desktop\frogger\src\manipula_objetos.c
+	"Manipula_objetos.h"
+	<windows.h>
+	<stdlib.h>
+
+1435290777 source:c:\users\victóriaelizabetha\desktop\frogger\src\manipula_pontuacao.c
+	"Manipula_pontuacao.h"
+
+1431569208 source:c:\users\victóriaelizabetha\desktop\frogger\src\manipula_sapo.c
+
+1435288959 source:c:\users\victóriaelizabetha\desktop\frogger\src\manipula_arquivos.c
+	"Manipula_arquivos.h"
+
+1435296459 source:c:\users\victóriaelizabetha\dropbox\ufrgs 2015\primeiro semestre - cic\algoritmos e programação\Área 2\trabalho - frogger\frogger\src\desenha_pixel.cpp
+	"desenha_pixel.hpp"
+
+1435296520 c:\users\victóriaelizabetha\dropbox\ufrgs 2015\primeiro semestre - cic\algoritmos e programação\Área 2\trabalho - frogger\frogger\src\desenha_pixel.hpp
+	<windows.h>
+	"stdio.h"
+
+1435299702 source:c:\users\victóriaelizabetha\dropbox\ufrgs 2015\primeiro semestre - cic\algoritmos e programação\Área 2\trabalho - frogger\frogger\src\desenha_pixel.c
+	"desenha_pixel.h"
+
+1435299572 c:\users\victóriaelizabetha\dropbox\ufrgs 2015\primeiro semestre - cic\algoritmos e programação\Área 2\trabalho - frogger\frogger\src\desenha_pixel.h
+	<windows.h>
+	"stdio.h"
+
+1435299702 source:c:\users\victóriaelizabetha\dropbox\ufrgs 2015\primeiro semestre - cic\algoritmos e programação\Área 2\trabalho - frogger\victoriaguilherme\frogger\src\desenha_pixel.c
+	"desenha_pixel.h"
+
+1435299572 c:\users\victóriaelizabetha\dropbox\ufrgs 2015\primeiro semestre - cic\algoritmos e programação\Área 2\trabalho - frogger\victoriaguilherme\frogger\src\desenha_pixel.h
+	<windows.h>
+	"stdio.h"
+
+1431569048 source:c:\users\victóriaelizabetha\dropbox\ufrgs 2015\primeiro semestre - cic\algoritmos e programação\Área 2\trabalho - frogger\victoriaguilherme\frogger\src\detecta_vitoria.c
+
+1435296421 source:c:\users\victóriaelizabetha\dropbox\ufrgs 2015\primeiro semestre - cic\algoritmos e programação\Área 2\trabalho - frogger\victoriaguilherme\frogger\src\main.c
+	"Include_commons.h"
+	"Manipula_objetos.h"
+	"Manipula_cenario.h"
+	<time.h>
+	<stdio.h>
+	<windows.h>
+	<process.h>
+
+1435296738 c:\users\victóriaelizabetha\dropbox\ufrgs 2015\primeiro semestre - cic\algoritmos e programação\Área 2\trabalho - frogger\victoriaguilherme\frogger\src\include_commons.h
+	<stdio.h>
+	<stdlib.h>
+	<conio2.h>
+
+1435296664 c:\users\victóriaelizabetha\dropbox\ufrgs 2015\primeiro semestre - cic\algoritmos e programação\Área 2\trabalho - frogger\victoriaguilherme\frogger\src\manipula_objetos.h
+	"Include_commons.h"
+	<windows.h>
+	"desenha_pixel.h"
+	"Manipula_menu.h"
+	"Manipula_colisoes.h"
+
+1435278703 c:\users\victóriaelizabetha\dropbox\ufrgs 2015\primeiro semestre - cic\algoritmos e programação\Área 2\trabalho - frogger\victoriaguilherme\frogger\src\manipula_menu.h
+	"Include_commons.h"
+
+1435296681 c:\users\victóriaelizabetha\dropbox\ufrgs 2015\primeiro semestre - cic\algoritmos e programação\Área 2\trabalho - frogger\victoriaguilherme\frogger\src\manipula_colisoes.h
+	"Manipula_pontuacao.h"
+
+1435294264 c:\users\victóriaelizabetha\dropbox\ufrgs 2015\primeiro semestre - cic\algoritmos e programação\Área 2\trabalho - frogger\victoriaguilherme\frogger\src\manipula_pontuacao.h
+	"Include_commons.h"
+	"Manipula_objetos.h"
+
+1435295847 c:\users\victóriaelizabetha\dropbox\ufrgs 2015\primeiro semestre - cic\algoritmos e programação\Área 2\trabalho - frogger\victoriaguilherme\frogger\src\manipula_cenario.h
+	"Include_commons.h"
+
+1435296964 source:c:\users\victóriaelizabetha\dropbox\ufrgs 2015\primeiro semestre - cic\algoritmos e programação\Área 2\trabalho - frogger\victoriaguilherme\frogger\src\manipula_arquivos.c
+	"Manipula_arquivos.h"
+
+1435278653 c:\users\victóriaelizabetha\dropbox\ufrgs 2015\primeiro semestre - cic\algoritmos e programação\Área 2\trabalho - frogger\victoriaguilherme\frogger\src\manipula_arquivos.h
+	"Include_commons.h"
+	"Manipula_objetos.h"
+
+1435299190 source:c:\users\victóriaelizabetha\dropbox\ufrgs 2015\primeiro semestre - cic\algoritmos e programação\Área 2\trabalho - frogger\victoriaguilherme\frogger\src\manipula_cenario.c
+	"Manipula_cenario.h"
+
+1435294022 source:c:\users\victóriaelizabetha\dropbox\ufrgs 2015\primeiro semestre - cic\algoritmos e programação\Área 2\trabalho - frogger\victoriaguilherme\frogger\src\manipula_colisoes.c
+	"Manipula_colisoes.h"
+
+1431569158 source:c:\users\victóriaelizabetha\dropbox\ufrgs 2015\primeiro semestre - cic\algoritmos e programação\Área 2\trabalho - frogger\victoriaguilherme\frogger\src\manipula_dificuldade.c
+
+1435278697 source:c:\users\victóriaelizabetha\dropbox\ufrgs 2015\primeiro semestre - cic\algoritmos e programação\Área 2\trabalho - frogger\victoriaguilherme\frogger\src\manipula_menu.c
+	"Manipula_menu.h"
+
+1435299941 source:c:\users\victóriaelizabetha\dropbox\ufrgs 2015\primeiro semestre - cic\algoritmos e programação\Área 2\trabalho - frogger\victoriaguilherme\frogger\src\manipula_objetos.c
+	"Manipula_objetos.h"
+	<windows.h>
+	<stdlib.h>
+
+1435290777 source:c:\users\victóriaelizabetha\dropbox\ufrgs 2015\primeiro semestre - cic\algoritmos e programação\Área 2\trabalho - frogger\victoriaguilherme\frogger\src\manipula_pontuacao.c
+	"Manipula_pontuacao.h"
+
+1431569208 source:c:\users\victóriaelizabetha\dropbox\ufrgs 2015\primeiro semestre - cic\algoritmos e programação\Área 2\trabalho - frogger\victoriaguilherme\frogger\src\manipula_sapo.c
+
